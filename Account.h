@@ -1,0 +1,14 @@
+//
+// Created by samuele on 18/07/24.
+//
+
+#ifndef TRANSAZIONIFINANZIARIE_ACCOUNT_H
+#define TRANSAZIONIFINANZIARIE_ACCOUNT_H
+
+
+class Account {
+
+};
+
+
+#endif //TRANSAZIONIFINANZIARIE_ACCOUNT_H
