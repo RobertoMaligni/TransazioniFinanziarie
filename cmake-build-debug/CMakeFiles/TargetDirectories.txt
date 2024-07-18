@@ -1,0 +1,3 @@
+/home/samuele/Desktop/TransazioniFinanziarie/cmake-build-debug/CMakeFiles/TransazioniFinanziarie.dir
+/home/samuele/Desktop/TransazioniFinanziarie/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/samuele/Desktop/TransazioniFinanziarie/cmake-build-debug/CMakeFiles/rebuild_cache.dir
